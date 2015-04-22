@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.1.2
+
+- Fix wrong trigger for scroll direction 'up'.
+
 ## v3.1.1
 
 - Fix bad `isWindow` checks causing errors in IE8-. (Issue #372)
